@@ -1,5 +1,5 @@
 # SJTU-autoelect
-![Language](https://img.shields.io/badge/Language-Python3-red.svg) ![License](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)
+![Language](https://img.shields.io/badge/Language-Python3-red.svg) ![License](https://img.shields.io/github/license/voidxia/SJTU-autoelect)
 
 ## Features
 
